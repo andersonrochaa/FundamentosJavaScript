@@ -17,3 +17,10 @@ let ola = function(){
 ola = () => 'Olá'
 
 console.log(ola())
+
+
+let oi = () => 'Oi paizao!'
+console.log(oi())
+
+oi = 'Carambolaas'
+console.log(oi())
