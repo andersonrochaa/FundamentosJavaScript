@@ -1,0 +1,2 @@
+//notaçao literal
+const obj = {}
